@@ -6,3 +6,10 @@ Data Science final project
 Nesrine Naaman <br />
 Hani Abdallah <br />
 Nguyen Huong Giang Le
+
+Folder:
+- Data Scraping
+- Data Cleaning and Formatting
+- Data Analysis (Graphs and PCA)
+- Modeling
+- Evaluation
