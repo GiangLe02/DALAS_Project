@@ -11,5 +11,5 @@ Folder:
 - Data Scraping
 - Data Cleaning and Formatting
 - Data Analysis (Graphs and PCA)
-- Modeling
-- Evaluation
+- Modeling and Evaluation
+- Deploying
