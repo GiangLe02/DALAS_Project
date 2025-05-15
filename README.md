@@ -12,4 +12,4 @@ Folder:
 - Data Cleaning and Formatting
 - Data Analysis (Graphs and PCA)
 - Modeling and Evaluation
-- Deploying
+- Deployment
